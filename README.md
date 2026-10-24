@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BharatPayFX — Cross-Border FX & Treasury Platform for Indian MSMEs
 
 BharatPayFX is an orchestration and treasury platform designed specifically for Indian small exporters, importers, agencies, and SaaS businesses. It aggregates cross-border currency flows, enables peer netting with 0% bank spread, delivers transparent mid-market FX quotes, and enforces a cryptographic 6-layer **Transaction Proof Graph** to prevent invoice fraud and unauthorized capital flight under RBI PA-CB guidelines.
@@ -104,3 +105,6 @@ bharatpayfx/
 
 ## ⚖️ Regulatory Positioning
 BharatPayFX acts as an orchestration, workflow, and compliance intelligence layer on top of RBI-authorized Payment Aggregator–Cross Border (PA-CB) and Authorized Dealer (AD) Category-I banking partners.
+=======
+# bharatpayfx
+>>>>>>> 51fd2b222bab7e4f1d15a1c2ebd50546ff83a559
